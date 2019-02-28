@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\AddHook\AddHook\bin\Debug\AddHook.exe.config
+C:\Users\David\source\repos\AddHook\AddHook\bin\Debug\AddHook.exe
+C:\Users\David\source\repos\AddHook\AddHook\bin\Debug\AddHook.pdb
+C:\Users\David\source\repos\AddHook\AddHook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\David\source\repos\AddHook\AddHook\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\David\source\repos\AddHook\AddHook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\David\source\repos\AddHook\AddHook\obj\Debug\AddHook.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\AddHook\AddHook\obj\Debug\AddHook.csproj.CopyComplete
+C:\Users\David\source\repos\AddHook\AddHook\obj\Debug\AddHook.exe
+C:\Users\David\source\repos\AddHook\AddHook\obj\Debug\AddHook.pdb
